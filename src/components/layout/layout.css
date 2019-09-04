@@ -1,0 +1,12 @@
+.navbar{
+    margin-bottom: 20px;
+}
+
+.navbar-nav a{
+    color: rgba(0,0,0,.9);
+    margin-right: 10px;
+}
+
+.navbar-nav:hover a{
+    text-decoration: none;
+}

@@ -1,0 +1,12 @@
+.input-group {
+    margin-top: 20px;
+}
+
+.list-group button {
+    float: right;
+}
+
+.list-group input {
+    width: 140px;
+    display: inline-block;
+}
